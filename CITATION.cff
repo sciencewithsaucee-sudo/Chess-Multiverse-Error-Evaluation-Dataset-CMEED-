@@ -1,72 +1,58 @@
 cff-version: 1.2.0
-
 title: "Chess Multiverse Error & Evaluation Dataset (CMEED)"
-
 message: "If you use this dataset in research, publications, software, or educational projects, please cite it using the metadata from this file."
-
 type: dataset
-
 authors:
-
-* given-names: "Sparsh"
-  family-names: "Varshney"
-  orcid: "https://orcid.org/0009-0004-7835-0673"
-
+  - given-names: "Sparsh"
+    family-names: "Varshney"
+    orcid: "https://orcid.org/0009-0004-7835-0673"
 version: 1.0.0
-
 date-released: 2026-06-08
-
 url: "https://www.chessmultiverse.org"
-
 repository-code: "https://github.com/sciencewithsaucee-sudo/Chess-Multiverse-Error-Evaluation-Dataset-CMEED-"
-
 license: CC-BY-SA-4.0
-
 abstract: >
-The Chess Multiverse Error & Evaluation Dataset (CMEED) is an
-open-source chess research dataset containing engine-annotated
-inaccuracies, mistakes, and blunders extracted from professional
-and competitive chess broadcast games. Each record includes player
-metadata, opening information, engine evaluations, evaluation
-swings, clock information, move details, and fully reconstructed
-board positions represented as FEN strings before and after the
-error move. CMEED v1.0 contains 994,269 error records extracted
-from games played between January 2026 and May 2026 and is designed
-to support chess analytics, human error modeling, machine learning,
-decision-making research, and large-scale statistical studies of
-human chess performance.
-
+  The Chess Multiverse Error & Evaluation Dataset (CMEED) is an
+  open-source chess research dataset containing engine-annotated
+  inaccuracies, mistakes, and blunders extracted from professional
+  and competitive chess broadcast games. Each record includes player
+  metadata, opening information, engine evaluations, evaluation
+  swings, clock information, move details, and fully reconstructed
+  board positions represented as FEN strings before and after the
+  error move. CMEED v1.0 contains 994,269 error records extracted
+  from games played between January 2026 and May 2026 and is designed
+  to support chess analytics, human error modeling, machine learning,
+  decision-making research, and large-scale statistical studies of
+  human chess performance.
 keywords:
-
-* chess
-* chess-research
-* chess-analytics
-* chess-dataset
-* chess-errors
-* blunders
-* mistakes
-* inaccuracies
-* lichess-broadcast
-* chess-ai
-* machine-learning-data
-* human-decision-making
-* sports-analytics
-* chess-engine-analysis
-* fen
-* pgn
-* open-data
-* json-dataset
-* data-science
-* chess-multiverse
-* evaluation-analysis
-
+  - chess
+  - chess-research
+  - chess-analytics
+  - chess-dataset
+  - chess-errors
+  - blunders
+  - mistakes
+  - inaccuracies
+  - lichess-broadcast
+  - chess-ai
+  - machine-learning-data
+  - human-decision-making
+  - sports-analytics
+  - chess-engine-analysis
+  - fen
+  - pgn
+  - open-data
+  - json-dataset
+  - data-science
+  - chess-multiverse
+  - evaluation-analysis
 preferred-citation:
-type: dataset
-authors:
-- given-names: "Sparsh"
-family-names: "Varshney"
-orcid: "https://orcid.org/0009-0004-7835-0673"
-title: "Chess Multiverse Error & Evaluation Dataset (CMEED)"
-version: 1.0.0
-publisher: "Chess Multiverse Lab"
-year: 2026
+  type: dataset
+  authors:
+    - given-names: "Sparsh"
+      family-names: "Varshney"
+      orcid: "https://orcid.org/0009-0004-7835-0673"
+  title: "Chess Multiverse Error & Evaluation Dataset (CMEED)"
+  version: 1.0.0
+  publisher: "Chess Multiverse Lab"
+  year: 2026
