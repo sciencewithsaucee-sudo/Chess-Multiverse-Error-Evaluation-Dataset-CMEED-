@@ -383,7 +383,7 @@ https://orcid.org/0009-0004-7835-0673
 
 ## ⚖️ License
 
-This dataset is released under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** License.
+This dataset is released under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 
 You are free to:
 
@@ -392,3 +392,5 @@ You are free to:
 - Build Upon
 
 for any purpose, including commercial use, provided appropriate attribution is given and derivative works are distributed under the same license.
+
+Full license text is available in the LICENSE file.
