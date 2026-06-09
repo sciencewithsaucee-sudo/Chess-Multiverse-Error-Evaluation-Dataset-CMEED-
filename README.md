@@ -5,17 +5,13 @@
 [![License](https://img.shields.io/badge/License-CC--BY--SA--4.0-orange)]()
 [![Records](https://img.shields.io/badge/Records-994,269-red)]()
 
-## 🚀 Chess Multiverse Research Ecosystem
+## 🚀 Live Interactive Explorer
 
-### ♟️ Chess Multiverse
-Advanced chess analytics, datasets, opening intelligence, error analysis, and research tools.
+Explore the dataset visually through the Chess Multiverse platform:
 
-👉 https://www.chessmultiverse.org
+👉 **https://www.chessmultiverse.org**
 
-### 🌿 Amidha Ayurveda
-Open science, Ayurveda research, educational resources, and digital innovation.
-
-👉 https://www.amidhayurveda.com
+The CMEED dataset powers error analytics, player error profiling, opening mistake exploration, and large-scale chess research tools developed by Chess Multiverse.
 
 ---
 
@@ -373,7 +369,7 @@ https://www.chessmultiverse.org
 
 🌿 Amidha Ayurveda
 
-https://www.amidhayurveda.com
+https://www.amidhaayurveda.com
 
 ### Profiles
 
