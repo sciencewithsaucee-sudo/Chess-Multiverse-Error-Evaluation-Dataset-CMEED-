@@ -118,7 +118,7 @@ CMEED Dataset
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 ```text
 Chess-Multiverse-Error-Evaluation-Dataset-CMEED/
@@ -130,15 +130,27 @@ Chess-Multiverse-Error-Evaluation-Dataset-CMEED/
 │   ├── cmeed_2026-04.json
 │   └── cmeed_2026-05.json
 │
+├── cmeed_v1.parquet
 ├── README.md
 ├── CITATION.cff
 ├── LICENSE
-├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
 └── .gitattributes
 ```
 
-Each monthly file contains all extracted error records for that month.
+### Dataset Formats
+
+CMEED is distributed in two formats:
+
+| Format | Description |
+|----------|----------|
+| JSON | Monthly source datasets |
+| Parquet | Consolidated research dataset |
+
+The Parquet release contains all 994,269 error records in a compressed columnar format optimized for analytics, machine learning, and large-scale research workflows.
+
+Researchers are encouraged to use the Parquet release for maximum performance.
 
 ---
 
