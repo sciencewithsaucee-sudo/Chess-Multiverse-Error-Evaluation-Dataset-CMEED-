@@ -1,5 +1,5 @@
 # Chess Multiverse Error & Evaluation Dataset (CMEED v1.0)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20625716.svg)](https://doi.org/10.5281/zenodo.20625716)
 [![Dataset](https://img.shields.io/badge/Dataset-CMEED_v1.0-blue)]()
 [![Format](https://img.shields.io/badge/Format-JSON-green)]()
 [![License](https://img.shields.io/badge/License-CC--BY--SA--4.0-orange)]()
@@ -387,15 +387,15 @@ Potential areas include:
 
 If you use CMEED in research, publications, software, educational projects, or derivative datasets, please cite the dataset.
 
-Citation metadata is available in:
-
 ```text
-CITATION.cff
+Varshney, Sparsh. (2026). Chess Multiverse Error & Evaluation Dataset (CMEED v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20625716
 ```
 
 ## DOI
 
-A Zenodo DOI will be assigned upon official release.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20625716.svg)](https://doi.org/10.5281/zenodo.20625716)
+
+DOI: https://doi.org/10.5281/zenodo.20625716
 
 ---
 
