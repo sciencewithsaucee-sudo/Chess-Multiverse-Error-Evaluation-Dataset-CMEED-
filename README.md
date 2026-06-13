@@ -1,5 +1,9 @@
 # Chess Multiverse Error & Evaluation Dataset (CMEED v1.0)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20625716.svg)](https://doi.org/10.5281/zenodo.20625716)
+[![Dataset](https://img.shields.io/badge/Dataset-CMEED_v1.0-blue)]()
+[![Format](https://img.shields.io/badge/Format-JSON-green)]()
+[![License](https://img.shields.io/badge/License-CC--BY--SA--4.0-orange)]()
+[![Records](https://img.shields.io/badge/Records-994,269-red)]()
 ## 🚀 Live Interactive Explorer
 
 Explore CMEED through the Chess Multiverse Error Explorer:
